@@ -11,3 +11,16 @@ C:\Users\акмал\Desktop\TEST\TEST\obj\Debug\netcoreapp3.1\TEST.AssemblyInfo.
 C:\Users\акмал\Desktop\TEST\TEST\obj\Debug\netcoreapp3.1\TEST.dll
 C:\Users\акмал\Desktop\TEST\TEST\obj\Debug\netcoreapp3.1\TEST.pdb
 C:\Users\акмал\Desktop\TEST\TEST\obj\Debug\netcoreapp3.1\TEST.genruntimeconfig.cache
+C:\Users\акмал\Desktop\akmal\dzfor\bin\Debug\netcoreapp3.1\TEST.exe
+C:\Users\акмал\Desktop\akmal\dzfor\bin\Debug\netcoreapp3.1\TEST.deps.json
+C:\Users\акмал\Desktop\akmal\dzfor\bin\Debug\netcoreapp3.1\TEST.runtimeconfig.json
+C:\Users\акмал\Desktop\akmal\dzfor\bin\Debug\netcoreapp3.1\TEST.runtimeconfig.dev.json
+C:\Users\акмал\Desktop\akmal\dzfor\bin\Debug\netcoreapp3.1\TEST.dll
+C:\Users\акмал\Desktop\akmal\dzfor\bin\Debug\netcoreapp3.1\TEST.pdb
+C:\Users\акмал\Desktop\akmal\dzfor\obj\Debug\netcoreapp3.1\TEST.csprojAssemblyReference.cache
+C:\Users\акмал\Desktop\akmal\dzfor\obj\Debug\netcoreapp3.1\TEST.csproj.CoreCompileInputs.cache
+C:\Users\акмал\Desktop\akmal\dzfor\obj\Debug\netcoreapp3.1\TEST.AssemblyInfoInputs.cache
+C:\Users\акмал\Desktop\akmal\dzfor\obj\Debug\netcoreapp3.1\TEST.AssemblyInfo.cs
+C:\Users\акмал\Desktop\akmal\dzfor\obj\Debug\netcoreapp3.1\TEST.dll
+C:\Users\акмал\Desktop\akmal\dzfor\obj\Debug\netcoreapp3.1\TEST.pdb
+C:\Users\акмал\Desktop\akmal\dzfor\obj\Debug\netcoreapp3.1\TEST.genruntimeconfig.cache
